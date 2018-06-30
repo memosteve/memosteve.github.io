@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"order_total"
+			],
+			[
+				"def",
+				"def\tdef … end"
+			],
+			[
+				"da",
+				"date_now"
+			],
+			[
+				"hp",
+				"hp2"
+			],
+			[
+				"L",
+				"Library"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"Us",
+				"User"
+			],
+			[
+				"bo",
+				"Book"
+			],
+			[
+				"n",
+				"num_copias"
+			],
+			[
+				"i",
+				"ISBN"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"ste",
+				"steve"
+			],
+			[
+				"mes",
+				"Message"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"na",
+				"Name"
+			],
+			[
+				"se",
+				"sepak"
+			],
+			[
+				"mod",
+				"mod\tmodule .. module_function .. end"
+			],
+			[
+				"repa",
+				"tipo_vehiculos_reparacion"
+			],
+			[
+				"añ",
+				"años_vehiculos_reparacion"
+			],
+			[
+				"st",
+				"status_vehiculos"
+			],
+			[
+				"ent",
+				"entregado_suamdor"
+			],
+			[
+				"Ent",
+				"Entregado"
+			],
+			[
+				"to",
+				"toyota"
+			],
+			[
+				"es",
+				"elsif\telsif ..."
+			],
+			[
+				"P",
+				"Pickup"
+			],
+			[
+				"c",
+				"carro_suamdor"
+			],
+			[
+				"ca",
+				"Carro"
+			],
+			[
+				"mi",
+				"minivan_suamdor"
+			],
+			[
+				"pi",
+				"pickup_suamdor"
+			],
+			[
+				"mo",
+				"moto_suamdor"
+			],
+			[
+				"su",
+				"suv_suamdor"
+			],
+			[
+				"veh",
+				"vehi"
+			],
+			[
+				"orde",
+				"orden5"
+			],
+			[
+				"h",
+				"harley"
+			],
+			[
+				"v",
+				"vehiculo"
+			],
+			[
+				"co",
+				"contar_carros"
+			],
+			[
+				"tall",
+				"taller"
+			],
+			[
+				"A",
+				"Automatic"
+			],
+			[
+				"bm",
+				"bmw"
+			],
+			[
+				"ve",
+				"Vehiculo"
+			],
+			[
+				"do",
+				"doors"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"tr",
+				"transmission"
+			],
+			[
+				"whe",
+				"wheel_count"
+			],
+			[
+				"C",
+				"Catalogo"
+			],
+			[
+				"cat",
+				"Catalogo"
+			],
+			[
+				"Mo",
+				"Movie"
+			],
+			[
+				"re",
+				"require_relative"
+			],
+			[
+				"ac",
+				"Actor"
+			],
+			[
+				"de",
+				"date_of_birth"
+			],
+			[
+				"movie",
+				"Movie"
+			],
+			[
+				"date",
+				"date_of_death"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"Movie",
+				"Movie_array"
+			],
+			[
+				"dae",
+				"date_of_birth"
+			],
+			[
+				"an",
+				"Animal"
+			],
+			[
+				"wi",
+				"weight"
+			],
+			[
+				"gr",
+				"grade"
+			],
+			[
+				"g",
+				"grades"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"dir",
+				"date_of_birth"
+			],
+			[
+				"ta",
+				"table_1"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"fe",
+				"frase"
+			],
+			[
+				"tex",
+				"texto"
+			],
+			[
+				"te",
+				"texto"
+			],
+			[
+				"let",
+				"letra1"
+			],
+			[
+				"lett",
+				"letter1"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"if",
+				"if\tif … end"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"el",
+				"elsif\telsif ..."
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"un",
+				"unless\tunless … end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"cd desktop",
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Memo/Desktop/CeroUno/clase4/profesor/animals_test.rb",
+		"/Users/Memo/Desktop/CeroUno/clase4/profesor/animals.rb",
+		"/Users/Memo/Desktop/CeroUno/clase4/Dia2/whatsapp.rb",
+		"/Users/Memo/Desktop/CeroUno/clase4/profesor/modules.rb",
+		"/Users/Memo/Desktop/CeroUno/clase4/Dia1/lesson1.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/dia2/ejercicio2.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia3/vehiculo.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia2/movie.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia2/exercise1.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia1/lesson1.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia1/classes.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia1/animals.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia1/test.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/Dia2/main.rb",
+		"/Users/Memo/Desktop/CeroUno/clase3/lesson1.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/dia2/ejercicio3.rb",
+		"/Users/Memo/Desktop/CeroUno/clase1/exercise4.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/dia2/ejericicio2.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/dia2/ejercicio2",
+		"/Users/Memo/Desktop/CeroUno/clase2/clase 2/ejercico1",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio6.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio8.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio7.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio5.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio4.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio3.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio2.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/ejercicio1.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/arrays.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/verano clase 1 semana 2/exercise_7.rb",
+		"/Users/Memo/Desktop/CeroUno/clase2/arrays",
+		"/Users/Memo/Desktop/CeroUno/clase1/exercise3.rb",
+		"/Users/Memo/Desktop/clase1/lesson2.rb",
+		"/Users/Memo/Desktop/clase1/exercise2.rb",
+		"/Users/Memo/Desktop/clase1/lesson3.rb",
+		"/Users/Memo/Desktop/clase1/lesson4.rb",
+		"/Users/Memo/Desktop/clase1/exercise4.rb",
+		"/Users/Memo/Desktop/clase1/lesson5.rb",
+		"/Users/Memo/Desktop/clase1/exercise3.rb",
+		"/Users/Memo/Desktop/clase1/lesson3B.rb",
+		"/Users/Memo/Desktop/clase1/exercise.rb",
+		"/Users/Memo/Desktop/clase1/lesson1.rb",
+		"/Users/Memo/Desktop/clase1/script",
+		"/Users/Memo/Desktop/clase1/string_Calculator.rb",
+		"/Users/Memo/Desktop/clase1/exercise",
+		"/Users/Memo/Desktop/Ember/elasticsearch-6.2.2/bin/elasticsearch.bat",
+		"/Users/Memo/Desktop/30 Octubre/Equipo 1/Index/Compartir.js",
+		"/Users/Memo/Desktop/Steve Albo/Equipo 1/Index/Index.html",
+		"/Users/Memo/Desktop/Index/fullcalendar.js",
+		"/Users/Memo/Desktop/Index/fullcalendar.min.js",
+		"/Users/Memo/Desktop/Index/fullcalendar-3.5.1/Index/js/theme-chooser.js",
+		"/Users/Memo/Desktop/Mail1.html",
+		"/Users/Memo/Desktop/Sublime/Principal"
+	],
+	"find":
+	{
+		"height": 211.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"clase1/exercise4.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8" />
+<link href="css/fullcalendar.min.css" rel="stylesheet" />
+<link href="css/fullcalendar.print.min.css" rel="stylesheet" media="print" />
+<script src="js/moment.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/fullcalendar.min.js"></script>
+<link href="css/style3.css" type="text/css" rel= "stylesheet"/>
+
+
+<!--Dropdown-->
+<link href="css/menu.css" rel="stylesheet">
+
+</script>
+
+<script>
+
+	$(document).ready(function() {
+
+		$("#calendar").fullCalendar({
+			header: {
+				left: "prev,next today",
+				center: "title",
+				right: "month,agendaWeek,agendaDay,listWeek"
+			},
+			defaultDate: "2018-06-14",
+			navLinks: true, // can click day/week names to navigate views
+			editable: true,
+			eventLimit: true, // allow "more" link when too many events
+			events: [
+				{
+		title: "Prom",
+		start: "2018-06-01",
+				},
+				{
+title: "Suban sus vestidos",
+start: "2018-06-01",
+					end: "2018-06-15"
+				},
+
+
+				{
+title: "Misa",
+start: "2018-06-18T19:30:00",
+end: "2018-06-18T20:30:00"
+				},
+				{
+title: "PROM",
+start: "2017-10-28T21:30:00"
+				}
+
+			]
+		});
+
+	});
+
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109285915-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "UA-109285915-1");
+</script>
+
+</head>
+
+
+
+<br>
+<br>
+<header class="BarPrincipal">
+	<div class="logo-container">
+		<p class="logo"><span>El</span> <span>Mejor lugar </span> <span>para ayudarte en tu boda o cualquier evento en Monterrey</span></p>
+	</div>
+	<div id="container">
+					<nav>
+						<ul>
+							<li><a href="Index.html">Home</a></li>
+
+							</li>
+							<li><a href="Compartir.html" >Crea tu evento</a></li>
+							<li> <a>&Uacute;nete a un evento</a>
+								<ul class="dropdown-menu">
+									<li><a href="calendario.html">Boda Ana</a></li>
+									<li><a href="calendarioProm.html">Prom 2015-2018</a></li>
+									<li><a href="BodaJulieta.html">Boda de Julieta</a></li>
+								</ul>
+							<li><a href="Ayuda.html"> Ayuda </a></li>
+							<li><a href="Material_de_Apoyo.html">Material de Apoyo</a></li>
+
+						</ul>
+					</nav>
+				</div>
+		</div>
+	</div>
+</header>
+</head>
+<body>
+
+	<header class="BarSuperior">
+
+	</header>
+
+	<div id="calendar"></div>
+
+</body>
+<center>
+<h1> Tienes un evento este mes en: </h1>
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14383.664629433328!2d-100.3082382!3d25.6740739!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2c732b5a2f1b8199!2sSAL%C3%93N+LAS+VENTANAS!5e0!3m2!1ses!2smx!4v1510592131620" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+<br>
+<br>
+<footer class="footer">
+	<nav class="footer-nav">
+		<ul>
+			<li><a href="Index.html">Home</a></li>
+			<li><a href="calendario.html"target="_blank">&Uacute;nete a un evento</a></li>
+			<li><a href="Compartir.html" target="_blank">Crea tu evento</a></li>
+			<li><a href="Material_de_Apoyo.html">Material de Apoyo</a></li>
+			<li><a href=""target="_blank">Política de Privacidad</a></li>
+			<li><a href=""target="_blank">Acerca de la página</a></li>
+			<li><a href=""target="_blank">Derechos Reservados Para TuBoda 2017</a></li>
+			<li><a href="Ayuda.html"target="_blank">Ayuda</a></li>
+		</ul>
+	</nav>
+<br>
+<br>
+<br>
+	<p class="Codigo de Honor">Damos nuestra palabra que hemos realizado esta actividad con Integridad Acad&eacute;mica</p>
+</footer>
+</html>
